@@ -1,10 +1,10 @@
 ---
 layout: page
-title: my personal webpage
+title: About
 tagline: Jayanth Krishnamurthy 
 description: Personal webpage of Jayanth Krishnamurthy
 ---
-Jayanth Krishnamurthy is a  PhD student in the INDES group 
+I am a  PhD student in the INDES group 
 [Indes Team &amp;](https://team.inria.fr/indes/)
 at the Inria, Sophia Antipolis, France;
 Working on debugging and verification of reactive programs developed in 
